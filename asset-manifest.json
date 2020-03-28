@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Joplin-proposal-draft/static/css/main.fc782ab4.chunk.css",
-    "main.js": "/Joplin-proposal-draft/static/js/main.d3ee7b8b.chunk.js",
-    "main.js.map": "/Joplin-proposal-draft/static/js/main.d3ee7b8b.chunk.js.map",
+    "main.js": "/Joplin-proposal-draft/static/js/main.ae184251.chunk.js",
+    "main.js.map": "/Joplin-proposal-draft/static/js/main.ae184251.chunk.js.map",
     "runtime-main.js": "/Joplin-proposal-draft/static/js/runtime-main.0d43f354.js",
     "runtime-main.js.map": "/Joplin-proposal-draft/static/js/runtime-main.0d43f354.js.map",
     "static/js/2.017af1ed.chunk.js": "/Joplin-proposal-draft/static/js/2.017af1ed.chunk.js",
     "static/js/2.017af1ed.chunk.js.map": "/Joplin-proposal-draft/static/js/2.017af1ed.chunk.js.map",
     "index.html": "/Joplin-proposal-draft/index.html",
-    "precache-manifest.04301ca62adbd79396f26f113a3752bd.js": "/Joplin-proposal-draft/precache-manifest.04301ca62adbd79396f26f113a3752bd.js",
+    "precache-manifest.1bf23d4386a8d2211f4f7aa8ba6a93d0.js": "/Joplin-proposal-draft/precache-manifest.1bf23d4386a8d2211f4f7aa8ba6a93d0.js",
     "service-worker.js": "/Joplin-proposal-draft/service-worker.js",
     "static/css/main.fc782ab4.chunk.css.map": "/Joplin-proposal-draft/static/css/main.fc782ab4.chunk.css.map",
     "static/js/2.017af1ed.chunk.js.LICENSE.txt": "/Joplin-proposal-draft/static/js/2.017af1ed.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0d43f354.js",
     "static/js/2.017af1ed.chunk.js",
     "static/css/main.fc782ab4.chunk.css",
-    "static/js/main.d3ee7b8b.chunk.js"
+    "static/js/main.ae184251.chunk.js"
   ]
 }
