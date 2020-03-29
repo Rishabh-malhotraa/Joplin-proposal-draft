@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "628efffeb4a47c26f8dc2daf53c19a48",
+    "revision": "6944d703b5e90d5d5dd11f399f5c88ab",
     "url": "/Joplin-proposal-draft/index.html"
   },
   {
-    "revision": "446ee5ce2081062a7cb5",
+    "revision": "f3e14c0ed177bd894ac9",
     "url": "/Joplin-proposal-draft/static/css/main.fc782ab4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Joplin-proposal-draft/static/js/2.017af1ed.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "446ee5ce2081062a7cb5",
-    "url": "/Joplin-proposal-draft/static/js/main.ae184251.chunk.js"
+    "revision": "f3e14c0ed177bd894ac9",
+    "url": "/Joplin-proposal-draft/static/js/main.c02a7788.chunk.js"
   },
   {
     "revision": "3a346fa237cf8d94ef29",
