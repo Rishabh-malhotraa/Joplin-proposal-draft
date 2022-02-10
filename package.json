@@ -10,7 +10,7 @@
     "bulma-scss": "^0.8.1",
     "gh-pages": "^2.2.0",
     "jquery": "^3.4.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
